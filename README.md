@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Valerii 👋
 
-<!--
-**ValeriiHb/ValeriiHb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior .NET Backend Developer based in the United Kingdom 🇬🇧
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Junior .NET Backend Developer
+- 🌱 Currently building **LangApp**
+- ⚙️ Working with ASP.NET Core, C#, Entity Framework Core, SQL and REST APIs
+- ⚛️ Learning React to strengthen my full-stack skills
+- 🎯 Looking for my first Junior .NET Backend Developer opportunity in the UK
+
+## 🚀 Tech Stack
+
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- REST APIs
+- React
+- Git
+- GitHub
+- MediatR
+- CQRS
+- SQL Server
+- Swagger / OpenAPI
+
+## 📌 Featured Project
+🔗 **Repository:** https://github.com/LangsApp/langsApp-api
+### LangApp
+
+Language learning platform built with ASP.NET Core, Entity Framework Core and SQL Server. The project follows Clean Architecture principles and exposes REST APIs for learning workflows.
+
+---
+
+Thanks for visiting my profile!
